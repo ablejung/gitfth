@@ -1,0 +1,907 @@
+[Sjy601-selectRsrcrCsInq-1747262674093]20250515,07:44:34,101 [GlobalAdviceExceptionHandler] SCBizException 발생 scourt.application.sjy.sjy600.service.impl.Sjy601ServiceImpl.selectCsBrif(Sjy601ServiceImpl.java:241)
+scourt.application.sjy.sjy600.controller.Sjy601Controller.selectRsrcrCsInq(Sjy601Controller.java:111)
+scourt.application.sjy.sjy600.controller.Sjy601Controller$$FastClassBySpringCGLIB$$a4ffd329.invoke(<generated>)
+scourt.framework.common.handler.GlobalAdviceSecurityHandler.processToken(GlobalAdviceSecurityHandler.java:149)
+scourt.framework.common.handler.GlobalAdviceSecurityHandler.checkSecurityToken(GlobalAdviceSecurityHandler.java:77)
+scourt.framework.common.handler.GlobalAdviceControllerLogHandler.timeLog(GlobalAdviceControllerLogHandler.java:85)
+scourt.application.sjy.sjy600.controller.Sjy601Controller$$EnhancerBySpringCGLIB$$8b23fb0e.selectRsrcrCsInq(<generated>)
+
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747265869710]20250515,08:37:50,153 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747265869710]20250515,08:37:50,153 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747265922414]20250515,08:38:42,513 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747265922414]20250515,08:38:42,513 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 157, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 158, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 159, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 160, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 161, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 162, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 163, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 164, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 165, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 166, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 167, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 168, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 169, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 170, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 171, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 172, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 173, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 174, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 175, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 176, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 177, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 178, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 179, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 180, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 181, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 182, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 183, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 184, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 185, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 186, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 187, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 188, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 189, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,378 [SCBindSql] Exception : Index: 190, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 191, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 192, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 193, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 194, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 195, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 196, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 197, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 198, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 199, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 200, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 201, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 202, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 203, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 204, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 205, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 206, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 207, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 208, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 209, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 210, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 211, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 212, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 213, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 214, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 215, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 216, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 217, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 218, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 219, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 220, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 221, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 222, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 223, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 224, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 225, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 226, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 227, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 228, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 229, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 230, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 231, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 232, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 233, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 234, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 235, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 236, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 237, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 238, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 239, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 240, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 241, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 242, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 243, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 244, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 245, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 246, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 247, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 248, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 249, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 250, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 251, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 252, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,379 [SCBindSql] Exception : Index: 253, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 254, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 255, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 256, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 257, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 258, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 259, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 260, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 261, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 262, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 263, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 264, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 265, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 266, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 267, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 268, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 269, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 270, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 271, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 272, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 273, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 274, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 275, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 276, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 277, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 278, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 279, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 280, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 281, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 282, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 283, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 284, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 285, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 286, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 287, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 288, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 289, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 290, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 291, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 292, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 293, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 294, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 295, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 296, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 297, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 298, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 299, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 300, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 301, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 302, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 303, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 304, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 305, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 306, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 307, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 308, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 309, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 310, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 311, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 312, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 313, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 314, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,380 [SCBindSql] Exception : Index: 315, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 316, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 317, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 318, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 319, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 320, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 321, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 322, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 323, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 324, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 325, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 326, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 327, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 328, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 329, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 330, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 331, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 332, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 333, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 334, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 335, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 336, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 337, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 338, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 339, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 340, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 341, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 342, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 343, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 344, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 345, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 346, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 347, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 348, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 349, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 350, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 351, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 352, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 353, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 354, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 355, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 356, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 357, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 358, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 359, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 360, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 361, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 362, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 363, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 364, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 365, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 366, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 367, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 368, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 369, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 370, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 371, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 372, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 373, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 374, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 375, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 376, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 377, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 378, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 379, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 380, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 381, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 382, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,381 [SCBindSql] Exception : Index: 383, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 384, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 385, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 386, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 387, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 388, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 389, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 390, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 391, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 392, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 393, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 394, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 395, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 396, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 397, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 398, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 399, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 400, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 401, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 402, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 403, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 404, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 405, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 406, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 407, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 408, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 409, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 410, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 411, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 412, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 413, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 414, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 415, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 416, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 417, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 418, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 419, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 420, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 421, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 422, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 423, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 424, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 425, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 426, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 427, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 428, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 429, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 430, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 431, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 432, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 433, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 434, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 435, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 436, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 437, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,382 [SCBindSql] Exception : Index: 438, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 439, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 440, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 441, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 442, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 443, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 444, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 445, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 446, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 447, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 448, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 449, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 450, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 451, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 452, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 453, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 454, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 455, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 456, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 457, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 458, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 459, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 460, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 461, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 462, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 463, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 464, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 465, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 466, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 467, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 468, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 469, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 470, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 471, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 472, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 473, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 474, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 475, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 476, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 477, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 478, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 479, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 480, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 481, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 482, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 483, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 484, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 485, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 486, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 487, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 488, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 489, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 490, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 491, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 492, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 493, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 494, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 495, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 496, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 497, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 498, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 499, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 500, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 501, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 502, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 503, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 504, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 505, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 506, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 507, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 508, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 509, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 510, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 511, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 512, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 513, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 514, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 515, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 516, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,383 [SCBindSql] Exception : Index: 517, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 518, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 519, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 520, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 521, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 522, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 523, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 524, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 525, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 526, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 527, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 528, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 529, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 530, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 531, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 532, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 533, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 534, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 535, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 536, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 537, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 538, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 539, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 540, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 541, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 542, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 543, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 544, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 545, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 546, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 547, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 548, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 549, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 550, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 551, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 552, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 553, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 554, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 555, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 556, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 557, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 558, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 559, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 560, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 561, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 562, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 563, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 564, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 565, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 566, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 567, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 568, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 569, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 570, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 571, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 572, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 573, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 574, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 575, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 576, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 577, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 578, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 579, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 580, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 581, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 582, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 583, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 584, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 585, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 586, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 587, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 588, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 589, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 590, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 591, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 592, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 593, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 594, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 595, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 596, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 597, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 598, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 599, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 600, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 601, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 602, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 603, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 604, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,384 [SCBindSql] Exception : Index: 605, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,385 [SCBindSql] Exception : Index: 606, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,385 [SCBindSql] Exception : Index: 607, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,385 [SCBindSql] Exception : Index: 608, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,385 [SCBindSql] Exception : Index: 609, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,385 [SCBindSql] Exception : Index: 610, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,385 [SCBindSql] Exception : Index: 611, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,385 [SCBindSql] Exception : Index: 612, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,385 [SCBindSql] Exception : Index: 613, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,385 [SCBindSql] Exception : Index: 614, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,385 [SCBindSql] Exception : Index: 615, Size: 157
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,414 [SCBindSql] Exception : null
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 3, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 4, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 5, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 6, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 7, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 8, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 9, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 10, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 11, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 12, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 13, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 14, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 15, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 16, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 17, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 18, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 19, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 20, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 21, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 22, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 23, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 24, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 25, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 26, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 27, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 28, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 29, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 30, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 31, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 32, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 33, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 34, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 35, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 36, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 37, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 38, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 39, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 40, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 41, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 42, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 43, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 44, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 45, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 46, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 47, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 48, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 49, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 50, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 51, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 52, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 53, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 54, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 55, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 56, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 57, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 58, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 59, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 60, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 61, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 62, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 63, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 64, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,415 [SCBindSql] Exception : Index: 65, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 66, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 67, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 68, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 69, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 70, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 71, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 72, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 73, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 74, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 75, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 76, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 77, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 78, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 79, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 80, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 81, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 82, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 83, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 84, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 85, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 86, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 87, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 88, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 89, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 90, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 91, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 92, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 93, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 94, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 95, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 96, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 97, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 98, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 99, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 100, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 101, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 102, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 103, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 104, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 105, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 106, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 107, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 108, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 109, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 110, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 111, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 112, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 113, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 114, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 115, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 116, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 117, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 118, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 119, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 120, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 121, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 122, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 123, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 124, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 125, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 126, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 127, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 128, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 129, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 130, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 131, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 132, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 133, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 134, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 135, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 136, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,416 [SCBindSql] Exception : Index: 137, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 138, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 139, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 140, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 141, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 142, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 143, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 144, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 145, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 146, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 147, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 148, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 149, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 150, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 151, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 152, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 153, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 154, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 155, Size: 3
+[Sjy502-selectGroupList-1747265925313]20250515,08:38:45,417 [SCBindSql] Exception : Index: 156, Size: 3
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747266087549]20250515,08:41:27,641 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747266087549]20250515,08:41:27,641 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747266801642]20250515,08:53:21,906 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747266801642]20250515,08:53:21,906 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747266801646]20250515,08:53:21,907 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747266801646]20250515,08:53:21,907 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747267391565]20250515,09:03:12,649 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747267391565]20250515,09:03:12,649 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747267952777]20250515,09:12:33,486 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747267952777]20250515,09:12:33,486 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy702-selectDstrbGrp-1747268070797]20250515,09:14:30,799 [SCBindSql] Exception : Index: 1, Size: 1
+[Sjy702-selectDstrbGrp-1747268070797]20250515,09:14:30,799 [SCBindSql] Exception : Index: 2, Size: 1
+[Sjy702-selectDstrbGrp-1747268070797]20250515,09:14:30,799 [SCBindSql] Exception : Index: 3, Size: 1
+[Sjy702-selectDstrbGrp-1747268070797]20250515,09:14:30,799 [SCBindSql] Exception : Index: 4, Size: 1
+[Sjy702-selectDstrbGrp-1747268070797]20250515,09:14:30,799 [SCBindSql] Exception : Index: 5, Size: 1
+[Sjy702-selectDstrbGrp-1747268070797]20250515,09:14:30,799 [SCBindSql] Exception : Index: 6, Size: 1
+[Sjy702-selectDstrbGrp-1747268070797]20250515,09:14:30,799 [SCBindSql] Exception : Index: 7, Size: 1
+[Sjy702-selectDstrbGrp-1747268070797]20250515,09:14:30,799 [SCBindSql] Exception : Index: 8, Size: 1
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,984 [SCBindSql] Exception : Index: 28, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,984 [SCBindSql] Exception : Index: 29, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 30, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 31, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 32, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 33, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 34, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 35, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 36, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 37, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 38, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 39, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 40, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 41, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 42, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 43, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 44, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 45, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 46, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 47, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 48, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 49, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 50, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 51, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 52, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 53, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 54, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 55, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 56, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 57, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 58, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 59, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 60, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 61, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 62, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 63, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 64, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 65, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 66, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 67, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 68, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 69, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 70, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 71, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 72, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 73, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 74, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 75, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 76, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 77, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 78, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 79, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 80, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 81, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 82, Size: 28
+[Sjy102-saveCsDstrbInf-1747268100983]20250515,09:15:00,985 [SCBindSql] Exception : Index: 83, Size: 28
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747268315119]20250515,09:18:35,517 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747268315119]20250515,09:18:35,517 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy702-selectDstrbGrp-1747268462105]20250515,09:21:02,107 [SCBindSql] Exception : Index: 1, Size: 1
+[Sjy702-selectDstrbGrp-1747268462105]20250515,09:21:02,107 [SCBindSql] Exception : Index: 2, Size: 1
+[Sjy702-selectDstrbGrp-1747268462105]20250515,09:21:02,107 [SCBindSql] Exception : Index: 3, Size: 1
+[Sjy702-selectDstrbGrp-1747268462105]20250515,09:21:02,107 [SCBindSql] Exception : Index: 4, Size: 1
+[Sjy702-selectDstrbGrp-1747268462105]20250515,09:21:02,107 [SCBindSql] Exception : Index: 5, Size: 1
+[Sjy702-selectDstrbGrp-1747268462105]20250515,09:21:02,107 [SCBindSql] Exception : Index: 6, Size: 1
+[Sjy702-selectDstrbGrp-1747268462105]20250515,09:21:02,107 [SCBindSql] Exception : Index: 7, Size: 1
+[Sjy702-selectDstrbGrp-1747268462105]20250515,09:21:02,107 [SCBindSql] Exception : Index: 8, Size: 1
+[Sjy601-selectRsrcrCsInq-1747268922092]20250515,09:28:42,098 [GlobalAdviceExceptionHandler] SCBizException 발생 scourt.application.sjy.sjy600.service.impl.Sjy601ServiceImpl.selectCsBrif(Sjy601ServiceImpl.java:241)
+scourt.application.sjy.sjy600.controller.Sjy601Controller.selectRsrcrCsInq(Sjy601Controller.java:111)
+scourt.application.sjy.sjy600.controller.Sjy601Controller$$FastClassBySpringCGLIB$$a4ffd329.invoke(<generated>)
+scourt.framework.common.handler.GlobalAdviceSecurityHandler.processToken(GlobalAdviceSecurityHandler.java:149)
+scourt.framework.common.handler.GlobalAdviceSecurityHandler.checkSecurityToken(GlobalAdviceSecurityHandler.java:77)
+scourt.framework.common.handler.GlobalAdviceControllerLogHandler.timeLog(GlobalAdviceControllerLogHandler.java:85)
+scourt.application.sjy.sjy600.controller.Sjy601Controller$$EnhancerBySpringCGLIB$$8b23fb0e.selectRsrcrCsInq(<generated>)
+
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747268930844]20250515,09:28:51,141 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747268930844]20250515,09:28:51,141 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy601-selectRsrcrCsInq-1747268959279]20250515,09:29:19,288 [GlobalAdviceExceptionHandler] SCBizException 발생 scourt.application.sjy.sjy600.service.impl.Sjy601ServiceImpl.selectCsBrif(Sjy601ServiceImpl.java:241)
+scourt.application.sjy.sjy600.controller.Sjy601Controller.selectRsrcrCsInq(Sjy601Controller.java:111)
+scourt.application.sjy.sjy600.controller.Sjy601Controller$$FastClassBySpringCGLIB$$a4ffd329.invoke(<generated>)
+scourt.framework.common.handler.GlobalAdviceSecurityHandler.processToken(GlobalAdviceSecurityHandler.java:149)
+scourt.framework.common.handler.GlobalAdviceSecurityHandler.checkSecurityToken(GlobalAdviceSecurityHandler.java:77)
+scourt.framework.common.handler.GlobalAdviceControllerLogHandler.timeLog(GlobalAdviceControllerLogHandler.java:85)
+scourt.application.sjy.sjy600.controller.Sjy601Controller$$EnhancerBySpringCGLIB$$8b23fb0e.selectRsrcrCsInq(<generated>)
+
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747269399449]20250515,09:36:39,626 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747269399449]20250515,09:36:39,626 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy601-selectRsrcrCsInq-1747269617096]20250515,09:40:17,101 [GlobalAdviceExceptionHandler] SCBizException 발생 scourt.application.sjy.sjy600.service.impl.Sjy601ServiceImpl.selectCsBrif(Sjy601ServiceImpl.java:241)
+scourt.application.sjy.sjy600.controller.Sjy601Controller.selectRsrcrCsInq(Sjy601Controller.java:111)
+scourt.application.sjy.sjy600.controller.Sjy601Controller$$FastClassBySpringCGLIB$$a4ffd329.invoke(<generated>)
+scourt.framework.common.handler.GlobalAdviceSecurityHandler.processToken(GlobalAdviceSecurityHandler.java:149)
+scourt.framework.common.handler.GlobalAdviceSecurityHandler.checkSecurityToken(GlobalAdviceSecurityHandler.java:77)
+scourt.framework.common.handler.GlobalAdviceControllerLogHandler.timeLog(GlobalAdviceControllerLogHandler.java:85)
+scourt.application.sjy.sjy600.controller.Sjy601Controller$$EnhancerBySpringCGLIB$$8b23fb0e.selectRsrcrCsInq(<generated>)
+
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747269883117]20250515,09:44:43,428 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747269883117]20250515,09:44:43,428 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747269883113]20250515,09:44:43,428 [SCBindSql] Exception : Index: 2, Size: 2
+[Sjy502-selectSoBuUnsolvedCaseMainCnt-1747269883113]20250515,09:44:43,428 [SCBindSql] Exception : Index: 3, Size: 2
+[Sjy202-chkReltCsLstAdd-1747270048565]20250515,09:47:28,570 [GlobalAdviceExceptionHandler] SCBizException 발생 scourt.application.sjy.sjy200.service.impl.Sjy202ServiceImpl.chkReltCsLstAdd(Sjy202ServiceImpl.java:187)
+scourt.application.sjy.sjy200.controller.Sjy202Controller.chkReltCsLstAdd(Sjy202Controller.java:137)
+scourt.application.sjy.sjy200.controller.Sjy202Controller$$FastClassBySpringCGLIB$$2c354ae2.invoke(<generated>)
+scourt.framework.common.handler.GlobalAdviceSecurityHandler.processToken(GlobalAdviceSecurityHandler.java:149)
+scourt.framework.common.handler.GlobalAdviceSecurityHandler.checkSecurityToken(GlobalAdviceSecurityHandler.java:77)
+scourt.framework.common.handler.GlobalAdviceControllerLogHandler.timeLog(GlobalAdviceControllerLogHandler.java:85)
+scourt.application.sjy.sjy200.controller.Sjy202Controller$$EnhancerBySpringCGLIB$$41cc7dd9.chkReltCsLstAdd(<generated>)
+
+20250515,10:07:19,237 [GlobalAdviceExceptionHandler] Exception 발생
+java.io.IOException: 상대편이 연결을 끊음
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:1.8.0_431]
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47) ~[?:1.8.0_431]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93) ~[?:1.8.0_431]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65) ~[?:1.8.0_431]
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:469) ~[?:1.8.0_431]
+	at weblogic.socket.NIOOutputStream$BlockingWriter.write(NIOOutputStream.java:326) ~[com.oracle.weblogic.server.muxers.jar:14.1.1.0]
+	at weblogic.socket.NIOOutputStream.write(NIOOutputStream.java:220) ~[com.oracle.weblogic.server.muxers.jar:14.1.1.0]
+	at weblogic.servlet.internal.ChunkOutput.writeChunkTransfer(ChunkOutput.java:628) ~[com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.ChunkOutput.writeChunks(ChunkOutput.java:590) ~[com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.ChunkOutput.flush(ChunkOutput.java:474) ~[com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.CharsetChunkOutput.flush(CharsetChunkOutput.java:318) ~[com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.ChunkOutputWrapper.flush(ChunkOutputWrapper.java:207) ~[com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.ServletOutputStreamImpl.flush(ServletOutputStreamImpl.java:156) ~[com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at com.fasterxml.jackson.core.json.UTF8JsonGenerator.flush(UTF8JsonGenerator.java:1200) ~[jackson-core-2.10.2.jar:2.15.2]
+	at com.fasterxml.jackson.databind.ObjectWriter.writeValue(ObjectWriter.java:1063) ~[jackson-databind-2.10.2.jar:2.15.2]
+	at org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter.writeInternal(AbstractJackson2HttpMessageConverter.java:285) ~[spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.http.converter.AbstractGenericHttpMessageConverter.write(AbstractGenericHttpMessageConverter.java:106) ~[spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:231) ~[spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.handleReturnValue(HttpEntityMethodProcessor.java:208) ~[spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:81) ~[spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:113) ~[spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:854) ~[spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:765) ~[spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) ~[spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) [spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) [spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) [spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872) [spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:665) [jakarta.servlet.jakarta.servlet-api.jar:4.0.2]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) [spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:750) [jakarta.servlet.jakarta.servlet-api.jar:4.0.2]
+	at weblogic.servlet.internal.StubSecurityHelper$ServletServiceAction.run(StubSecurityHelper.java:295) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.StubSecurityHelper$ServletServiceAction.run(StubSecurityHelper.java:260) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.StubSecurityHelper.invokeServlet(StubSecurityHelper.java:137) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.ServletStubImpl.execute(ServletStubImpl.java:353) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.TailFilter.doFilter(TailFilter.java:25) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:82) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at egovframework.rte.ptl.mvc.filter.HTMLTagFilter.doFilter(HTMLTagFilter.java:51) [egovframework.rte.ptl.mvc-3.10.0.jar:?]
+	at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:82) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) [spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:82) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) [spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:82) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.RequestEventsFilter.doFilter(RequestEventsFilter.java:32) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:82) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.wrapRun(WebAppServletContext.java:3869) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:3832) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:344) [com.oracle.weblogic.security.subject.jar:14.1.1.0]
+	at weblogic.security.service.SecurityManager.runAsForUserCode(SecurityManager.java:197) [com.oracle.weblogic.security.subject.jar:14.1.1.0]
+	at weblogic.servlet.provider.WlsSecurityProvider.runAsForUserCode(WlsSecurityProvider.java:203) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.provider.WlsSubjectHandle.run(WlsSubjectHandle.java:71) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext.processSecuredExecute(WebAppServletContext.java:2505) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext.doSecuredExecute(WebAppServletContext.java:2354) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext.securedExecute(WebAppServletContext.java:2329) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext.execute(WebAppServletContext.java:2307) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.ServletRequestImpl.runInternal(ServletRequestImpl.java:1798) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.ServletRequestImpl.run(ServletRequestImpl.java:1752) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.provider.ContainerSupportProviderImpl$WlsRequestExecutor.run(ContainerSupportProviderImpl.java:272) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.invocation.ComponentInvocationContextManager._runAs(ComponentInvocationContextManager.java:352) [com.bea.core.utils.full.jar:14.1.1.0]
+	at weblogic.invocation.ComponentInvocationContextManager.runAs(ComponentInvocationContextManager.java:337) [com.bea.core.utils.full.jar:14.1.1.0]
+	at weblogic.work.LivePartitionUtility.doRunWorkUnderContext(LivePartitionUtility.java:57) [com.oracle.weblogic.work.jar:14.1.1.0]
+	at weblogic.work.PartitionUtility.runWorkUnderContext(PartitionUtility.java:41) [com.bea.core.weblogic.workmanager.jar:14.1.1.0]
+	at weblogic.work.SelfTuningWorkManagerImpl.runWorkUnderContext(SelfTuningWorkManagerImpl.java:651) [com.bea.core.weblogic.workmanager.jar:14.1.1.0]
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:420) [com.bea.core.weblogic.workmanager.jar:14.1.1.0]
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:360) [com.bea.core.weblogic.workmanager.jar:14.1.1.0]
+[CmjIf-registerEdmsKSFile-1747272580098]20250515,10:29:40,108 [GlobalAdviceExceptionHandler] Exception 발생
+java.io.FileNotFoundException: 파일이 존재하지 않습니다. -> /nas_i_app/sjy/edms/upload/???_2025?4806.hwpx
+	at kics.edms.client.KICSRegisterClient.registerDocumentP(KICSRegisterClient.java:342) ~[dDIMS_BD_Client-20240725.jar:?]
+	at kics.edms.client.KICSRegisterClient.registerDocument(KICSRegisterClient.java:112) ~[dDIMS_BD_Client-20240725.jar:?]
+	at scourt.framework.library.component.soltn.SCEdmsKS.registerDocument(SCEdmsKS.java:58) ~[scLibrary-RELEASE.jar:?]
+	at scourt.ifmodule.cmj.controller.CmjIfController.registerEdmsKSFile(CmjIfController.java:266) ~[cmjIfmodule-RELEASE.jar:?]
+	at scourt.ifmodule.cmj.controller.CmjIfController$$FastClassBySpringCGLIB$$fcbc26c4.invoke(<generated>) ~[cmjIfmodule-RELEASE.jar:?]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204) ~[spring-core-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:736) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:96) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at scourt.framework.common.handler.GlobalAdviceSecurityHandler.processToken(GlobalAdviceSecurityHandler.java:149) ~[scCommonWeb-RELEASE.jar:?]
+	at scourt.framework.common.handler.GlobalAdviceSecurityHandler.checkSecurityToken(GlobalAdviceSecurityHandler.java:77) ~[scCommonWeb-RELEASE.jar:?]
+	at sun.reflect.GeneratedMethodAccessor348.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_431]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_431]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:627) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:616) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:70) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:84) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at scourt.framework.common.handler.GlobalAdviceControllerLogHandler.timeLog(GlobalAdviceControllerLogHandler.java:85) ~[scCommonWeb-RELEASE.jar:?]
+	at sun.reflect.GeneratedMethodAccessor347.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_431]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_431]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:627) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:616) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:70) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:56) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:671) ~[spring-aop-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at scourt.ifmodule.cmj.controller.CmjIfController$$EnhancerBySpringCGLIB$$ea0ca7dd.registerEdmsKSFile(<generated>) ~[cmjIfmodule-RELEASE.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_431]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_431]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_431]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_431]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) ~[spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) ~[spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:854) ~[spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:765) ~[spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) ~[spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) [spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) [spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) [spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872) [spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:665) [jakarta.servlet.jakarta.servlet-api.jar:4.0.2]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) [spring-webmvc-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:750) [jakarta.servlet.jakarta.servlet-api.jar:4.0.2]
+	at weblogic.servlet.internal.StubSecurityHelper$ServletServiceAction.run(StubSecurityHelper.java:295) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.StubSecurityHelper$ServletServiceAction.run(StubSecurityHelper.java:260) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.StubSecurityHelper.invokeServlet(StubSecurityHelper.java:137) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.ServletStubImpl.execute(ServletStubImpl.java:353) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.TailFilter.doFilter(TailFilter.java:25) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:82) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at egovframework.rte.ptl.mvc.filter.HTMLTagFilter.doFilter(HTMLTagFilter.java:51) [egovframework.rte.ptl.mvc-3.10.0.jar:?]
+	at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:82) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) [spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:82) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) [spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.25.RELEASE.jar:4.3.25.RELEASE]
+	at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:82) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.RequestEventsFilter.doFilter(RequestEventsFilter.java:32) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.FilterChainImpl.doFilter(FilterChainImpl.java:82) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.wrapRun(WebAppServletContext.java:3869) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAppServletContext.java:3832) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:344) [com.oracle.weblogic.security.subject.jar:14.1.1.0]
+	at weblogic.security.service.SecurityManager.runAsForUserCode(SecurityManager.java:197) [com.oracle.weblogic.security.subject.jar:14.1.1.0]
+	at weblogic.servlet.provider.WlsSecurityProvider.runAsForUserCode(WlsSecurityProvider.java:203) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.provider.WlsSubjectHandle.run(WlsSubjectHandle.java:71) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext.processSecuredExecute(WebAppServletContext.java:2505) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext.doSecuredExecute(WebAppServletContext.java:2354) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext.securedExecute(WebAppServletContext.java:2329) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.WebAppServletContext.execute(WebAppServletContext.java:2307) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.ServletRequestImpl.runInternal(ServletRequestImpl.java:1798) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.internal.ServletRequestImpl.run(ServletRequestImpl.java:1752) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.servlet.provider.ContainerSupportProviderImpl$WlsRequestExecutor.run(ContainerSupportProviderImpl.java:272) [com.oracle.weblogic.servlet.jar:14.1.1.0]
+	at weblogic.invocation.ComponentInvocationContextManager._runAs(ComponentInvocationContextManager.java:352) [com.bea.core.utils.full.jar:14.1.1.0]
+	at weblogic.invocation.ComponentInvocationContextManager.runAs(ComponentInvocationContextManager.java:337) [com.bea.core.utils.full.jar:14.1.1.0]
+	at weblogic.work.LivePartitionUtility.doRunWorkUnderContext(LivePartitionUtility.java:57) [com.oracle.weblogic.work.jar:14.1.1.0]
+	at weblogic.work.PartitionUtility.runWorkUnderContext(PartitionUtility.java:41) [com.bea.core.weblogic.workmanager.jar:14.1.1.0]
+	at weblogic.work.SelfTuningWorkManagerImpl.runWorkUnderContext(SelfTuningWorkManagerImpl.java:651) [com.bea.core.weblogic.workmanager.jar:14.1.1.0]
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:420) [com.bea.core.weblogic.workmanager.jar:14.1.1.0]
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:360) [com.bea.core.weblogic.workmanager.jar:14.1.1.0]
